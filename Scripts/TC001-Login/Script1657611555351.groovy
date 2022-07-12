@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.WebsiteName)
+WebUI.navigateToUrl(GlobalVariable.webUrlMain)
 
 WebUI.delay(2)
 
