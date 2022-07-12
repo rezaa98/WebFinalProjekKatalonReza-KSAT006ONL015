@@ -14,4 +14,19 @@
       <initValue>'http://kotakoki.wijaysali.my.id/my-account-2/'</initValue>
       <name>myAccoutURL</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://kotakoki.wijaysali.my.id/register-now/'</initValue>
+      <name>RegisterURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://kotakoki.wijaysali.my.id/login/'</initValue>
+      <name>LoginURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://kotakoki.wijaysali.my.id/checkout-2/order-received/'</initValue>
+      <name>OrderReceiverURL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
