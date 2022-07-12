@@ -23,15 +23,15 @@ WebUI.navigateToUrl(GlobalVariable.WebsiteName)
 
 WebUI.delay(2)
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Login/btn_Go to login'), 0)
+WebUI.waitForElementPresent(findTestObject('Login/btn_Go to login'), 0)
 
-WebUI.click(findTestObject('Object Repository/Login/btn_Go to login'))
+WebUI.click(findTestObject('Login/btn_Go to login'))
 
-WebUI.waitForElementPresent(findTestObject('Login/Page_Login  Kotakoki/input_Username or E-mail'), 0)
+WebUI.waitForElementPresent(findTestObject('Login/input_Username or E-mail'), 2)
 
-WebUI.clearText(findTestObject('Login/Page_Login  Kotakoki/input_Username or E-mail'))
+WebUI.clearText(findTestObject('Login/input_Username or E-mail'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Username or E-mail'), username)
+WebUI.setText(findTestObject('Login/input_Username or E-mail'), username)
 
 WebUI.waitForElementPresent(findTestObject('Login/Page_Login  Kotakoki/input_Password'), 0)
 
