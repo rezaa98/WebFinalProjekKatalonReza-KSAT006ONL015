@@ -4,4 +4,14 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Url utama /home</description>
+      <initValue>'https://kotakoki.wijaysali.my.id/'</initValue>
+      <name>webUrlMain</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Url for My Account</description>
+      <initValue>'http://kotakoki.wijaysali.my.id/my-account-2/'</initValue>
+      <name>myAccoutURL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
