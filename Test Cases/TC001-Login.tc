@@ -15,39 +15,39 @@
       <testDataId>Data Files/Profile</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>02005963-3c2a-423a-8034-3bc4a245ec8b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
       <variableId>98e9d8f6-38cd-49c0-a60a-1b98261fc34a</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>02005963-3c2a-423a-8034-3bc4a245ec8b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
       <variableId>b4dd4c45-6754-4bfe-86c3-04d6a8a6278d</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>02005963-3c2a-423a-8034-3bc4a245ec8b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>confirm_password</value>
       <variableId>46548268-687c-4ccb-9d2a-2fba9e6b10d5</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>02005963-3c2a-423a-8034-3bc4a245ec8b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
       <variableId>ef22fca1-4a02-450b-9fb6-8a5f648d66e4</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>02005963-3c2a-423a-8034-3bc4a245ec8b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>phone</value>
       <variableId>78cb23ea-1aae-42ba-b040-654529eb29d4</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>02005963-3c2a-423a-8034-3bc4a245ec8b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>address</value>
       <variableId>59a69d78-c97f-455d-8845-165a2052ab53</variableId>
    </variableLinks>
    <variable>
