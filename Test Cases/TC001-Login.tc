@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TestCase untuk melakukan Login</description>
+   <name>TC001-Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8b33c11-f969-4d35-a574-cc7ec520bb7f</testCaseGuid>
+</TestCaseEntity>
