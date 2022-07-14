@@ -23,9 +23,9 @@ WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
 WebUI.click(findTestObject('Object Repository/Page_Kotakoki  Welcome to my Website/span_Register Now'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Register Now  Kotakoki/input_Username_user_login-297'), 'reza.maulana')
+WebUI.setText(findTestObject('Object Repository/Page_Register Now  Kotakoki/input_Username_user_login-297'), 'reza.maulana2')
 
-WebUI.setText(findTestObject('Object Repository/Page_Register Now  Kotakoki/input_E-mail Address_user_email-297'), 'reza.maulana@bfi.co.id')
+WebUI.setText(findTestObject('Object Repository/Page_Register Now  Kotakoki/input_E-mail Address_user_email-297'), 'reza.maulana2@bfi.co.id')
 
 WebUI.setText(findTestObject('Object Repository/Page_Register Now  Kotakoki/input_Phone Number_phone_number-297'), '081122334455')
 

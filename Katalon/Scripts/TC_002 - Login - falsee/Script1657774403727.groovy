@@ -17,17 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Kotakoki  Welcome to my Website/span_Login'))
+WebUI.click(findTestObject('Object Repository/Page_Kotakoki  Welcome to my Website/a_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Username or E-mail_username-298'), 'jampirojam@ojam.id')
+WebUI.click(findTestObject('Object Repository/Page_Kotakoki  Welcome to my Website/span_Login'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Password_user_password-298'), 
-    'Ljp9ziZ+BWOiHHjJfV8jLg==')
+WebUI.setText(findTestObject('Object Repository/Page_Login  Kotakoki/input_Username or E-mail_username-298'), 'reza.maulanaxxx')
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Login  Kotakoki/input_Keep me signed in_um-submit-btn'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Kotakoki/input_Password_user_password-298'), '/5S6MFFLcE4mlsixtc6/Tg==')
+
+WebUI.click(findTestObject('Object Repository/Page_Login  Kotakoki/input_Keep me signed in_um-submit-btn'))
 
