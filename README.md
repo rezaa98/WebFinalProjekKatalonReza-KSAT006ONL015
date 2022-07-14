@@ -24,4 +24,4 @@
 
 ## Tampilan awal aplikasi
 
-<img src="https://github.com/rezaa98/MobileTesting_FinalProjekKatalonReza_KSAT006ONL015/blob/main/IMG/Tampilan%20antarmuka.jpeg" width="300">
+<img src="https://github.com/rezaa98/WebFinalProjekKatalonReza-KSAT006ONL015/blob/main/IMG/dashboard.png" width="300">
